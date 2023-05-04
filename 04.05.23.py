@@ -10,3 +10,23 @@ class Student():
 student = Student("Dima" , 16)
 student.info()
 
+#2
+
+class Circle:
+    def __init__(self , radius):
+        self.radius = radius
+    def area(self):
+        print(3.14 * self.radius**2)
+areaa = Circle(3)
+areaa.area()
+
+#3
+
+
+
+
+
+
+
+
+
