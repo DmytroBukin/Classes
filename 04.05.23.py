@@ -20,7 +20,19 @@ class Circle:
 areaa = Circle(3)
 areaa.area()
 
+
 #3
+
+class Animals():
+    pass
+class Dog(Animals):
+    def sound(self):
+        print("Gav")
+ronik = Dog()
+ronik.sound()
+
+
+
 
 
 
